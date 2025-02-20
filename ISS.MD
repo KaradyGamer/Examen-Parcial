@@ -3,7 +3,7 @@
 ## 📌 **Definición**
 IIS (Internet Information Services) es un **servidor web** desarrollado por **Microsoft** para sistemas operativos Windows. Se usa para alojar y administrar **sitios web, aplicaciones web y servicios**.
 
-![CREACION DE ARCHIVO](imagen/1.png)
+![CREACION DE ARCHIVO](1.png)
 
 ### EL ERROR DEL PORQUE DESDCARGA
 
@@ -19,7 +19,7 @@ powershell
 ```
 winver
 ```
-![CREACION DE ARCHIVO](imagen/2.png)
+![CREACION DE ARCHIVO](2.png)
 
 # 🚨 No se puede habilitar contenedores de Windows en Windows Home con PowerShell  
 
